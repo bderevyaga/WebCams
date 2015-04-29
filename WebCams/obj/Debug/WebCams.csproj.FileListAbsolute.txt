@@ -1,0 +1,5 @@
+c:\users\bogdan\documents\visual studio 2013\Projects\WebCams\WebCams\bin\Debug\WebCams.exe
+c:\users\bogdan\documents\visual studio 2013\Projects\WebCams\WebCams\bin\Debug\WebCams.pdb
+c:\users\bogdan\documents\visual studio 2013\Projects\WebCams\WebCams\obj\Debug\WebCams.csprojResolveAssemblyReference.cache
+c:\users\bogdan\documents\visual studio 2013\Projects\WebCams\WebCams\obj\Debug\WebCams.exe
+c:\users\bogdan\documents\visual studio 2013\Projects\WebCams\WebCams\obj\Debug\WebCams.pdb
